@@ -1,0 +1,41 @@
+using System;
+using System.Collections;
+
+public class Repositorio
+{
+    public ArrayList Lista { get; protected set; }
+
+    public Repositorio() {
+        this.Lista = new ArrayList();
+    }
+
+    public void InserirRegistro(Entidade entidade)
+    {
+        Lista.Add(entidade);
+    }
+
+    public void EditarRegistro(
+        Entidade entidadeAtualizada, int id
+    )
+    {
+        EncontrarRegistro(id).Atualizar(entidadeAtualizada);
+    }
+
+    public Entidade EncontrarRegistro(int id)
+    {
+        foreach (Entidade entidade in Lista)
+        {
+            if (entidade.Id == id)
+            {
+                return entidade;
+            }
+        }
+
+        return null;
+    }
+
+    public void RemoverRegistro(Entidade entidade)
+    {
+        Lista.Remove(entidade);
+    }
+}

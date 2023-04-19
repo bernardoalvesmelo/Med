@@ -1,0 +1,15 @@
+C:\Users\berna\Desktop\medicamentos\obj\Debug\net7.0\medicamentos.csproj.AssemblyReference.cache
+C:\Users\berna\Desktop\medicamentos\obj\Debug\net7.0\medicamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berna\Desktop\medicamentos\obj\Debug\net7.0\medicamentos.AssemblyInfoInputs.cache
+C:\Users\berna\Desktop\medicamentos\obj\Debug\net7.0\medicamentos.AssemblyInfo.cs
+C:\Users\berna\Desktop\medicamentos\obj\Debug\net7.0\medicamentos.csproj.CoreCompileInputs.cache
+C:\Users\berna\Desktop\medicamentos\bin\Debug\net7.0\medicamentos.exe
+C:\Users\berna\Desktop\medicamentos\bin\Debug\net7.0\medicamentos.deps.json
+C:\Users\berna\Desktop\medicamentos\bin\Debug\net7.0\medicamentos.runtimeconfig.json
+C:\Users\berna\Desktop\medicamentos\bin\Debug\net7.0\medicamentos.dll
+C:\Users\berna\Desktop\medicamentos\bin\Debug\net7.0\medicamentos.pdb
+C:\Users\berna\Desktop\medicamentos\obj\Debug\net7.0\medicamentos.dll
+C:\Users\berna\Desktop\medicamentos\obj\Debug\net7.0\refint\medicamentos.dll
+C:\Users\berna\Desktop\medicamentos\obj\Debug\net7.0\medicamentos.pdb
+C:\Users\berna\Desktop\medicamentos\obj\Debug\net7.0\medicamentos.genruntimeconfig.cache
+C:\Users\berna\Desktop\medicamentos\obj\Debug\net7.0\ref\medicamentos.dll
